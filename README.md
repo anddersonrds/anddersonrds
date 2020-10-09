@@ -4,8 +4,8 @@
 
 I am a front-end developer, focused on always learning and evolving more in this dev universe. I currently work with ReactJs, NextJs and GraphQL at [Aceprint](https://aceprint.com.br/) <br>
 
-⚡ &nbsp;Currently mastering Typescript, Next.js, Domain Driven Design, TDD and Design Patterns
-✉️ &nbsp;How to contact me: anddersonrds@gmail.com
+⚡ &nbsp;Currently mastering Typescript, Next.js, Domain Driven Design, TDD and Design Patterns.\
+✉️ &nbsp;How to contact me: anddersonrds@gmail.com.\
 🎮 &nbsp;Fun fact: Gamer and student of digital games, you can add me to have some games, my Steam ID: [AnddersonRds](https://steamcommunity.com/id/anddersonrds/)
 
 ### 🛠 &nbsp;Tech Stack
@@ -18,16 +18,24 @@ I am a front-end developer, focused on always learning and evolving more in this
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<p>
   <a href="https://github.com/anddersonrds">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anddersonrds&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anddersonrds&layout=compact&langs_count=8&theme=react"/>
   </a>
+</p>
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p>
+  <a href="https://linkedin.com/in/anddersonrs"><img src="https://img.shields.io/badge/-Anderson%20Rodrigues%20Singh-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:anddersonrds@gmail.com"><img src="https://img.shields.io/badge/-anddersonrds@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/anddersonrs"><img src="https://img.shields.io/badge/-@anddersonrs-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+  <a href="https://facebook.com/anddersonrs"><img src="https://img.shields.io/badge/-@anddersonrs-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 </p>
