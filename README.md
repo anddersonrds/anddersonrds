@@ -10,6 +10,7 @@ I am a front-end developer, focused on always learning and evolving more in this
 
 ### 🛠 &nbsp;Tech Stack
 
+![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
@@ -33,7 +34,7 @@ I am a front-end developer, focused on always learning and evolving more in this
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p>
-  <a href="https://linkedin.com/in/anddersonrs"><img src="https://img.shields.io/badge/-Anderson%20Rodrigues%20Singh-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/anddersonrs"><img src="https://img.shields.io/badge/-Anderson%20Rodrigues-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:anddersonrds@gmail.com"><img src="https://img.shields.io/badge/-anddersonrds@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://instagram.com/anddersonrs"><img src="https://img.shields.io/badge/-@anddersonrs-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
   <a href="https://facebook.com/anddersonrs"><img src="https://img.shields.io/badge/-@anddersonrs-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
