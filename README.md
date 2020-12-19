@@ -34,8 +34,8 @@ I am a front-end developer, focused on always learning and evolving more in this
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p>
-  <a href="https://linkedin.com/in/anddersonrs"><img src="https://img.shields.io/badge/-Anderson%20Rodrigues-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:anddersonrds@gmail.com"><img src="https://img.shields.io/badge/-anddersonrds@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://instagram.com/anddersonrs"><img src="https://img.shields.io/badge/-@anddersonrs-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-  <a href="https://facebook.com/anddersonrs"><img src="https://img.shields.io/badge/-@anddersonrs-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/anddersonrds"><img src="https://img.shields.io/badge/-@anddersonrds-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/anddersonrds"><img src="https://img.shields.io/badge/-@anddersonrds-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+  <a href="https://facebook.com/anddersonrds"><img src="https://img.shields.io/badge/-@anddersonrds-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 </p>
