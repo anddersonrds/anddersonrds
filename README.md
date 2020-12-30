@@ -6,7 +6,7 @@ I am a front-end developer, focused on always learning and evolving more in this
 
 ⚡ &nbsp;Currently mastering Typescript, Next.js, Domain Driven Design, TDD and Design Patterns.\
 ✉️ &nbsp;How to contact me: anddersonrds@gmail.com.\
-🎮 &nbsp;Fun fact: Gamer and student of digital games, you can add me to have some games, my Steam ID: [AnddersonRds](https://steamcommunity.com/id/anddersonrds/).
+🎮 &nbsp;Fun fact: Gamer and student of digital games, you can add me to have some games, my Steam ID: [AnddersonRds](https://steamcommunity.com/id/anddersonrds/) =)
 
 ### 🛠 &nbsp;Tech Stack
 
