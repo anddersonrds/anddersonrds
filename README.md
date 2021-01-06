@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-I am a front-end developer, focused on always learning and evolving more in this dev universe. I currently work with ReactJs, NextJs and GraphQL at [Aceprint](https://aceprint.com.br/). <br>
+I am a frontend developer, focused on always learning and evolving more in this dev universe. I currently work with ReactJs and React Native at [Agenda Edu](https://agendaedu.com/). <br>
 
 ⚡ &nbsp;Currently mastering Typescript, Next.js, Domain Driven Design, TDD and Design Patterns.\
 ✉️ &nbsp;How to contact me: anddersonrds@gmail.com.\
