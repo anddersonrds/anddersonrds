@@ -5,7 +5,7 @@
 I am a frontend developer, focused on always learning and evolving more in this dev universe. I currently work with ReactJs and React Native at [Agenda Edu](https://agendaedu.com/). <br>
 
 ⚡ &nbsp;Currently mastering Typescript, Next.js, Domain Driven Design, TDD and Design Patterns.\
-✉️ &nbsp;How to contact me: anddersonrds@gmail.com.\
+📫 &nbsp;How to contact me: anddersonrds@gmail.com.\
 🎮 &nbsp;Fun fact: Gamer and student of digital games, you can add me to have some games, my Steam ID: [AnddersonRds](https://steamcommunity.com/id/anddersonrds/) =)
 
 ### 🛠 &nbsp;Tech Stack
@@ -26,15 +26,8 @@ I am a frontend developer, focused on always learning and evolving more in this 
 
 <p>
   <a href="https://github.com/anddersonrds">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anddersonrds&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anddersonrds&layout=compact&langs_count=8&theme=tokyonight"/>
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/anddersonrds">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anddersonrds&show_icons=true&theme=tokyonight&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anddersonrds&layout=compact&theme=tokyonight" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anddersonrds&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anddersonrds&layout=compact&langs_count=8&theme=react"/>
   </a>
 </p>
 
