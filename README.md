@@ -31,6 +31,13 @@ I am a frontend developer, focused on always learning and evolving more in this 
   </a>
 </p>
 
+<p>
+  <a href="https://github.com/anddersonrds">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=anddersonrds&show_icons=true&theme=tokyonight&include_all_commits=true" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anddersonrds&layout=compact&theme=tokyonight" />
+  </a>
+</p>
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p>
