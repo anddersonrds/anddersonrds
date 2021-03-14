@@ -26,8 +26,8 @@ I am a frontend developer, focused on always learning and evolving more in this 
 
 <p>
   <a href="https://github.com/anddersonrds">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anddersonrds&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anddersonrds&layout=compact&langs_count=8&theme=react"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anddersonrds&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anddersonrds&layout=compact&langs_count=8&theme=tokyonight"/>
   </a>
 </p>
 
