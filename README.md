@@ -14,6 +14,8 @@ I am a frontend developer, focused on always learning and evolving more in this 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
+![Git](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=e535ab)&nbsp;
+![Git](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=red)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
