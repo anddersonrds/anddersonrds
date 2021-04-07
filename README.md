@@ -20,14 +20,14 @@ I am a frontend developer, focused on always learning and evolving more in this 
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
+<!-- ### ⚙️ &nbsp;GitHub Analytics
 
 <p>
   <a href="https://github.com/anddersonrds">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anddersonrds&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anddersonrds&layout=compact&langs_count=8&theme=react"/>
   </a>
-</p>
+</p> -->
 
 ### 🤝🏻 &nbsp;Connect with Me
 
