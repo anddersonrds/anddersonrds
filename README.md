@@ -18,7 +18,14 @@
 
 <div align="center">
 <marquee behavior="scroll" direction="left" scrollamount="5">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,vite,webpack,bun,kotlin,androidstudio,tailwind,styledcomponents,sass,figma,nodejs,nestjs,graphql,ruby,rails,postgres,mongodb,redis,firebase,rabbitmq,aws,jest,cypress,docker,git,vscode,sentry,python,pytorch,tensorflow,obsidian&perline=35" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,vite,webpack,bun,kotlin,androidstudio,tailwind,styledcomponents,sass,figma,nodejs,nestjs,graphql,ruby,rails,postgres,mongodb,redis,firebase,rabbitmq,aws,jest,cypress,docker,git,vscode,sentry,python,pytorch,tensorflow,obsidian&perline=35" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,vite,webpack,bun,kotlin&perline=9" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,tailwind,styledcomponents,sass,figma,nodejs,nestjs,graphql&perline=8" />
+  <img src="https://skillicons.dev/icons?i=ruby,rails,postgres,mongodb,redis,firebase,rabbitmq,aws,jest&perline=9" />
+  <img src="https://skillicons.dev/icons?i=cypress,docker,git,vscode,sentry,python,pytorch,tensorflow,obsidian&perline=9" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,vite,webpack,bun,kotlin&perline=9" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,tailwind,styledcomponents,sass,figma,nodejs,nestjs,graphql&perline=8" />
+  <img src="https://skillicons.dev/icons?i=ruby,rails,postgres,mongodb,redis,firebase,rabbitmq,aws,jest&perline=9" />
+  <img src="https://skillicons.dev/icons?i=cypress,docker,git,vscode,sentry,python,pytorch,tensorflow,obsidian&perline=9" />
 </marquee>
 </div>
 
