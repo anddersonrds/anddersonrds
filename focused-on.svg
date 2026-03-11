@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 170" width="800" height="170">
+
+  <!-- Background panel matching GitHub dark mode -->
+  <rect width="800" height="170" rx="8" fill="#161b22"/>
+
+  <!-- ─── Column 1: AI & Machine Learning ─── -->
+  <rect x="16" y="14" width="250" height="30" rx="4" fill="#6E56CF"/>
+  <text x="141" y="34"
+    text-anchor="middle" fill="white"
+    font-family="system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif"
+    font-size="11" font-weight="700" letter-spacing="0.8">AI &amp; MACHINE LEARNING</text>
+
+  <text x="24" y="70"  fill="#c9d1d9" font-family="system-ui,-apple-system,sans-serif" font-size="13">🎓 Postgrad in AI · 2025–2026</text>
+  <text x="24" y="93"  fill="#c9d1d9" font-family="system-ui,-apple-system,sans-serif" font-size="13">🧠 LLMs &amp; Prompt Engineering</text>
+  <text x="24" y="116" fill="#c9d1d9" font-family="system-ui,-apple-system,sans-serif" font-size="13">⚡ Generative AI in practice</text>
+  <text x="24" y="139" fill="#c9d1d9" font-family="system-ui,-apple-system,sans-serif" font-size="13">🛠️ AI-assisted dev tools</text>
+
+  <!-- ─── Column 2: Tech Leadership ─── -->
+  <rect x="282" y="14" width="236" height="30" rx="4" fill="#302b63"/>
+  <text x="400" y="34"
+    text-anchor="middle" fill="white"
+    font-family="system-ui,-apple-system,sans-serif"
+    font-size="11" font-weight="700" letter-spacing="0.8">TECH LEADERSHIP</text>
+
+  <text x="290" y="70"  fill="#c9d1d9" font-family="system-ui,-apple-system,sans-serif" font-size="13">🚀 Leading frontend teams</text>
+  <text x="290" y="93"  fill="#c9d1d9" font-family="system-ui,-apple-system,sans-serif" font-size="13">🔍 Code reviews &amp; mentoring</text>
+  <text x="290" y="116" fill="#c9d1d9" font-family="system-ui,-apple-system,sans-serif" font-size="13">📐 Agile &amp; Scrum practices</text>
+  <text x="290" y="139" fill="#c9d1d9" font-family="system-ui,-apple-system,sans-serif" font-size="13">🎯 OKRs &amp; technical strategy</text>
+
+  <!-- ─── Column 3: Architecture ─── -->
+  <rect x="534" y="14" width="250" height="30" rx="4" fill="#5a3a9f"/>
+  <text x="659" y="34"
+    text-anchor="middle" fill="white"
+    font-family="system-ui,-apple-system,sans-serif"
+    font-size="11" font-weight="700" letter-spacing="0.8">ARCHITECTURE</text>
+
+  <text x="542" y="70"  fill="#c9d1d9" font-family="system-ui,-apple-system,sans-serif" font-size="13">🏛️ Clean Architecture</text>
+  <text x="542" y="93"  fill="#c9d1d9" font-family="system-ui,-apple-system,sans-serif" font-size="13">📦 Domain-Driven Design</text>
+  <text x="542" y="116" fill="#c9d1d9" font-family="system-ui,-apple-system,sans-serif" font-size="13">🧩 Micro-frontends</text>
+  <text x="542" y="139" fill="#c9d1d9" font-family="system-ui,-apple-system,sans-serif" font-size="13">🎨 Design Systems</text>
+
+</svg>

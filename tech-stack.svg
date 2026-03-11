@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     viewBox="0 0 800 58" width="800" height="58"
+     style="overflow:hidden;background:transparent;">
+  <g id="track">
+    <image href="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,vite,webpack,bun,kotlin&amp;perline=9"
+           x="0" y="5" width="498" height="48"/>
+    <image href="https://skillicons.dev/icons?i=androidstudio,tailwind,styledcomponents,sass,figma,nodejs,nestjs,graphql&amp;perline=8"
+           x="498" y="5" width="441.75" height="48"/>
+    <image href="https://skillicons.dev/icons?i=ruby,rails,postgres,mongodb,redis,firebase,rabbitmq,aws,jest&amp;perline=9"
+           x="939.75" y="5" width="498" height="48"/>
+    <image href="https://skillicons.dev/icons?i=cypress,docker,git,vscode,sentry,python,pytorch,tensorflow,obsidian&amp;perline=9"
+           x="1437.75" y="5" width="498" height="48"/>
+    <!-- Duplicate for seamless infinite loop -->
+    <image href="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,vite,webpack,bun,kotlin&amp;perline=9"
+           x="1935.75" y="5" width="498" height="48"/>
+    <image href="https://skillicons.dev/icons?i=androidstudio,tailwind,styledcomponents,sass,figma,nodejs,nestjs,graphql&amp;perline=8"
+           x="2433.75" y="5" width="441.75" height="48"/>
+    <image href="https://skillicons.dev/icons?i=ruby,rails,postgres,mongodb,redis,firebase,rabbitmq,aws,jest&amp;perline=9"
+           x="2875.5" y="5" width="498" height="48"/>
+    <image href="https://skillicons.dev/icons?i=cypress,docker,git,vscode,sentry,python,pytorch,tensorflow,obsidian&amp;perline=9"
+           x="3373.5" y="5" width="498" height="48"/>
+    <animateTransform
+      attributeName="transform"
+      type="translate"
+      from="0 0"
+      to="-1935.75 0"
+      dur="25s"
+      repeatCount="indefinite"/>
+  </g>
+</svg>
