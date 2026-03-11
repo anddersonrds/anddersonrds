@@ -18,14 +18,7 @@
 
 <div align="center">
 <marquee behavior="scroll" direction="left" scrollamount="5">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,vite,webpack,bun,kotlin&perline=9" height="48" />
-  <img style="margin-left: 4px" src="https://skillicons.dev/icons?i=androidstudio,tailwind,styledcomponents,sass,figma,nodejs,nestjs,graphql&perline=8" height="48" />
-  <img style="margin-left: 4px" src="https://skillicons.dev/icons?i=ruby,rails,postgres,mongodb,redis,firebase,rabbitmq,aws,jest&perline=9" height="48" />
-  <img style="margin-left: 4px" src="https://skillicons.dev/icons?i=cypress,docker,git,vscode,sentry,python,pytorch,tensorflow,obsidian&perline=9" height="48" />
-  <img style="margin-left: 4px" src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,vite,webpack,bun,kotlin&perline=9" height="48" />
-  <img style="margin-left: 4px" src="https://skillicons.dev/icons?i=androidstudio,tailwind,styledcomponents,sass,figma,nodejs,nestjs,graphql&perline=8" height="48" />
-  <img style="margin-left: 4px" src="https://skillicons.dev/icons?i=ruby,rails,postgres,mongodb,redis,firebase,rabbitmq,aws,jest&perline=9" height="48" />
-  <img style="margin-left: 4px" src="https://skillicons.dev/icons?i=cypress,docker,git,vscode,sentry,python,pytorch,tensorflow,obsidian&perline=9" height="48" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,vite,webpack,bun,kotlin,androidstudio,tailwind,styledcomponents,sass,figma,nodejs,nestjs,graphql,ruby,rails,postgres,mongodb,redis,firebase,rabbitmq,aws,jest,cypress,docker,git,vscode,sentry,python,pytorch,tensorflow,obsidian&perline=35" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,vite,webpack,bun,kotlin,androidstudio,tailwind,styledcomponents,sass,figma,nodejs,nestjs,graphql,ruby,rails,postgres,mongodb,redis,firebase,rabbitmq,aws,jest,cypress,docker,git,vscode,sentry,python,pytorch,tensorflow,obsidian&perline=35" />
 </marquee>
 </div>
 
@@ -41,23 +34,23 @@
 
 <div align="center">
 
-<table width="100%" border="0" cellspacing="0" cellpadding="20">
+<table width="100%" frame="void" rules="none" border="0" cellspacing="0" cellpadding="24">
   <tr>
-    <td align="center" border="0" valign="top" width="33%">
+    <td align="center" valign="top" width="33%">
       <img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-6E56CF?style=for-the-badge&logoColor=white" alt="AI & ML"/><br/><br/>
       <big>🎓 Postgrad in AI · 2025–2026<br/>
       🧠 LLMs & Prompt Engineering<br/>
       ⚡ Generative AI in practice<br/>
       🛠️ AI-assisted dev tools</big>
     </td>
-    <td align="center" border="0" valign="top" width="33%">
+    <td align="center" valign="top" width="33%">
       <img src="https://img.shields.io/badge/Tech%20Leadership-302b63?style=for-the-badge&logoColor=white" alt="Tech Leadership"/><br/><br/>
       <big>🚀 Leading frontend teams<br/>
       🔍 Code reviews & mentoring<br/>
       📐 Agile & Scrum practices<br/>
       🎯 OKRs & technical strategy</big>
     </td>
-    <td align="center" border="0" valign="top" width="34%">
+    <td align="center" valign="top" width="34%">
       <img src="https://img.shields.io/badge/Architecture-5a3a9f?style=for-the-badge&logoColor=white" alt="Architecture"/><br/><br/>
       <big>🏛️ Clean Architecture<br/>
       📦 Domain-Driven Design<br/>
