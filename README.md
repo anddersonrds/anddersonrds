@@ -1,39 +1,80 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Anderson Rodrigues!
+<div align="center">
 
-### 👨🏻‍💻 &nbsp;About Me
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:5a3a9f&height=200&section=header&text=Anderson%20Rodrigues&fontSize=48&fontColor=ffffff&fontAlign=50&fontAlignY=35&animation=fadeIn" width="100%" />
 
-I am a frontend developer, focused on always learning and evolving more in this dev universe. I currently work with ReactJs and React Native at [Agenda Edu](https://agendaedu.com/). <br>
+</div>
 
-⚡ &nbsp;Currently mastering Typescript, Next.js, Domain Driven Design, TDD and Design Patterns.\
-📫 &nbsp;How to contact me: anddersonrds@gmail.com.\
-🎮 &nbsp;Fun fact: Gamer and student of digital games, you can add me to have some games, my Steam ID: [AnddersonRds](https://steamcommunity.com/id/anddersonrds/) =)
+## 👋 About Me
 
-### 🛠 &nbsp;Tech Stack
+Hi! I'm Anderson, a **Senior Frontend Developer** with over 6 years of experience building high quality web and mobile interfaces and applications. I have been working as a **Tech Lead for over 3 years**,guiding engineering teams through architecture decisions, code quality standards, and development best practices.
 
-![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
-![Git](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=e535ab)&nbsp;
-![Git](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=red)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
+🎓 I'm currently deepening my knowledge in **Artificial Intelligence**, pursuing a postgraduate degree focused on AI and its practical applications in modern software development.
 
-### ⚙️ &nbsp;GitHub Analytics
+💡 I'm passionate about well crafted user experiences, clean code, and an engineering culture that values **DDD**, **TDD**, and solid design patterns. I thrive in collaborative environments where knowledge sharing is part of everyday life.
 
-<p>
-  <a href="https://github.com/anddersonrds">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anddersonrds&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anddersonrds&layout=compact&langs_count=8&theme=react"/>
-  </a>
-</p>
+🚀 My core stack revolves around the **React** ecosystem with strong expertise in **TypeScript**, **Next.js**, and **React Native** but my curiosity constantly drives me to explore new technologies, especially in the AI space and language model-assisted development tools.
 
-### 🤝🏻 &nbsp;Connect with Me
+## 🛠️ Tech Stack
 
-<p>
-  <a href="mailto:anddersonrds@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-anddersonrds@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/anddersonrds" target="_blank"><img src="https://img.shields.io/badge/-@anddersonrds-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/anddersonrds" target="_blank"><img src="https://img.shields.io/badge/-@anddersonrds-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-  <a href="https://facebook.com/anddersonrds" target="_blank"><img src="https://img.shields.io/badge/-@anddersonrds-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
-</p>
+<div align="center">
+<img src="tech-stack.svg" width="100%" />
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=anddersonrds&theme=tokyonight&hide_border=true&background=0d1117&ring=6E56CF&fire=6E56CF&currStreakLabel=6E56CF&sideLabels=9A9A9A&dates=9A9A9A&sideNums=FFFFFF&currStreakNum=FFFFFF&stroke=6E56CF" alt="GitHub Streak" width="100%" />
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anddersonrds&theme=tokyo-night&bg_color=0d1117&color=6E56CF&line=6E56CF&point=FFFFFF&area=true&area_color=6E56CF&hide_border=true&radius=8" alt="Activity Graph" width="100%" />
+</div>
+
+## 🎯 Currently Focused On
+
+<div align="center">
+
+<table border="0" cellspacing="0" cellpadding="12">
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-6E56CF?style=for-the-badge&logoColor=white" alt="AI & ML"/><br/><br/>
+      🎓 Postgrad in AI · 2025–2026<br/>
+      🧠 LLMs & Prompt Engineering<br/>
+      ⚡ Generative AI in practice<br/>
+      🛠️ AI-assisted dev tools
+    </td>
+    <td align="center" valign="top" width="33%">
+      <img src="https://img.shields.io/badge/Tech%20Leadership-302b63?style=for-the-badge&logoColor=white" alt="Tech Leadership"/><br/><br/>
+      🚀 Leading frontend teams<br/>
+      🔍 Code reviews & mentoring<br/>
+      📐 Agile & Scrum practices<br/>
+      🎯 OKRs & technical strategy
+    </td>
+    <td align="center" valign="top" width="34%">
+      <img src="https://img.shields.io/badge/Architecture-5a3a9f?style=for-the-badge&logoColor=white" alt="Architecture"/><br/><br/>
+      🏛️ Clean Architecture<br/>
+      📦 Domain-Driven Design<br/>
+      🧩 Micro-frontends<br/>
+      🎨 Design Systems
+    </td>
+  </tr>
+</table>
+
+</div>
+
+## 📫 Contact
+
+<div align="center">
+
+Want to talk about **React**, **TypeScript**, **frontend architecture**, or **Artificial Intelligence**?
+I'm always open to exchanging ideas and collaborating on projects that make a difference. 🚀
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anddersonrds)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anddersonrds@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anddersonrds)
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5a3a9f,50:302b63,100:0f0c29&height=100&section=footer" width="100%" />
+</div>
