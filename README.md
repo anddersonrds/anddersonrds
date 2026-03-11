@@ -17,15 +17,17 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="./tech-stack.svg" width="100%" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,vite,webpack,bun,kotlin,androidstudio,tailwind,styledcomponents,sass,figma&perline=14" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,graphql,ruby,rails,postgres,mongodb,redis,firebase,rabbitmq,aws,jest,cypress,docker,git,vscode,sentry,python,pytorch,tensorflow,obsidian&perline=21" />
 </div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anddersonrds&theme=tokyo-night&bg_color=0d1117&color=6E56CF&line=6E56CF&point=FFFFFF&area=true&area_color=6E56CF&hide_border=true&radius=8" alt="Activity Graph" width="100%" />
-
-  <img src="https://streak-stats.demolab.com?user=anddersonrds&theme=tokyonight&hide_border=true&background=0d1117&ring=6E56CF&fire=6E56CF&currStreakLabel=6E56CF&sideLabels=9A9A9A&dates=9A9A9A&sideNums=FFFFFF&currStreakNum=FFFFFF&stroke=6E56CF" alt="GitHub Streak" width="100%" />
+ 
+  <!--<img src="https://streak-stats.demolab.com?user=anddersonrds&theme=tokyonight&hide_border=true&background=0d1117&ring=6E56CF&fire=6E56CF&currStreakLabel=6E56CF&sideLabels=9A9A9A&dates=9A9A9A&sideNums=FFFFFF&currStreakNum=FFFFFF&stroke=6E56CF" alt="GitHub Streak" width="100%" /> -->
 </div>
 
 ## 🎯 Currently Focused On
